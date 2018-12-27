@@ -7,5 +7,5 @@ npm i @h21-map/geodesic-leaflet
 ```
 ### How to use (dinamic import)
 ```bash
- import('@h21-map/geodesic-leaflet');
+ import('@h21-map/geodesic-leaflet')
 ```
