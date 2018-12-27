@@ -1,11 +1,11 @@
 
-# @h21-map/geodesic-leaflet
+# @h21-map/leaflet-geodesic
 
 ### Installation
 ```bash
-npm i @h21-map/geodesic-leaflet
+npm i @h21-map/leaflet-geodesic
 ```
 ### How to use (dinamic import)
 ```bash
- import('@h21-map/geodesic-leaflet')
+ import('@h21-map/leaflet-geodesic')
 ```
